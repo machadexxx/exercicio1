@@ -1,0 +1,1 @@
+Neste projeto estamos a utilizar o git e esta a ser muito engraçado!
